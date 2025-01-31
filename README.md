@@ -1,4 +1,6 @@
-# genius-0963
+# IIITIAN-SAURABH
+# 💫Welcome to my Github profile! 👋:
+ Hii, I'm Saurabh, a Software Developer. I am currently studying Electronics and Communication Engineering at IIIT Allahabad and I am passionate about web development, competitive programming and machine learning.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iiitiansaurabh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-kumar-6009b51b3) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sksingh.rajput.359) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iiitiansaurabh@gmail.com)
