@@ -1,6 +1,6 @@
 # IIITIAN-SAURABH
 # 💫Welcome to my Github profile! 👋:
- My name is Saurabh, and I work as a Web Developer. 🚀 Currently, I'm pursuing a degree in Electronics and communication  Engineering from Indian Institute of Information Technology , Allahabad 📚, and I have a strong passion for Web/App Development, AI, Data Science, and Cyber Security. 💙 Right now, I'm actively involved in creating software and applications using different tools. If you're interested, you can check out my portfolio on GitHub! 📱👀
+ My name is Saurabh, and I work as a Web Developer. 🚀 Currently, I'm pursuing a degree in Electronics and communication  Engineering from Indian Institute of Information Technology , Allahabad 📚, and I have a strong passion for Web/App Development, AI, Data Science, and Cyber Security. 💙 Right now, I'm actively involved in creating software and applications using different tools. If you're interested, you can check out my portfolio on GitHub! 📱
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iiitiansaurabh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-kumar-6009b51b3) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sksingh.rajput.359) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iiitiansaurabh@gmail.com)
