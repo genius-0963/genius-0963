@@ -1,6 +1,12 @@
 # IIITIAN-SAURABH
-# 💫 Welcome to my Github profile! 👋
-Myself Saurabh, and I work as a Software Developer. 🚀 Currently, I'm pursuing a degree in Electronics and Communication Engineering from Indian Institute of Information Technology, Allahabad 📚. I have a strong passion for Web/App Development, AI, Data Science, and Cyber Security. 💙 Right now, I'm actively involved in creating software and applications using different tools. 📱
+# 💫 Welcome to my Github profile! 👋  
+
+I’m **Saurabh Kumar**, an open-source contributor and software developer passionate about building impactful projects. 🚀  
+Currently pursuing **Electronics and Communication Engineering** at **IIIT Allahabad**, I enjoy contributing to developer tools, experimenting with Web/App Development, and exploring AI, Data Science, and Cyber Security.  
+
+I actively contribute to open-source projects like **Firecrawl** and **Google DeepMind repos (VideoPrism, tf2jax)**, where I focus on improving stability, developer ergonomics, and feature enhancements. 🌍  
+Beyond contributions, I love working on innovative projects—from real-time AI applications to full-stack systems—that bridge ideas with practical solutions. 📱  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-kumar-6009b51b3) 
