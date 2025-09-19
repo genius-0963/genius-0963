@@ -1,5 +1,4 @@
-# IIITIAN-SAURABH
-# 💫 Welcome to my Github profile! 👋  
+# SAURABH
 
 I’m **Saurabh Kumar**, an open-source contributor and software developer passionate about building impactful projects. 🚀  
 Currently pursuing **Electronics and Communication Engineering** at **IIIT Allahabad**, I enjoy contributing to developer tools, experimenting with Web/App Development, and exploring AI, Data Science, and Cyber Security.  
