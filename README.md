@@ -15,17 +15,6 @@ Beyond contributions, I love working on innovative projects—from real-time AI 
 
 ## 🚀 Open Source Contributions
 
-### 🔹 Firecrawl
-- **[PR #2104](https://github.com/firecrawl/firecrawl/pull/2104)** – Improved DOCX processor by adding error handling, timeout support, file validation, and logging for a more robust document pipeline.  
-- **[PR #1978](https://github.com/firecrawl/firecrawl/pull/1978)** – Added retry logic with exponential backoff and enhanced network error diagnostics to improve stability in `scrapeUrl`.
-
-### 🔹 VideoPrism (Google DeepMind)
-- **[PR #52](https://github.com/google-deepmind/videoprism/pull/52)** – Enhanced developer ergonomics by making TensorFlow and JAX optional, and introduced flexible input padding for the encoder.
-
-### 🔹 tf2jax (Google DeepMind)
-- **[Enhancements Branch](https://github.com/google-deepmind/tf2jax)** – Worked on improving compatibility and features (attempted PR, pending due to permission restrictions).
-
----
 
 [![](https://visitcount.itsvg.in/api?id=genius-0963&icon=0&color=0)](https://visitcount.itsvg.in)
 
