@@ -11,11 +11,5 @@ Beyond contributions, I love working on innovative projects—from real-time AI 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-kumar-6009b51b3) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iiitiansaurabh@gmail.com)
 
----
-
-## 🚀 Open Source Contributions
 
 
-[![](https://visitcount.itsvg.in/api?id=genius-0963&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
