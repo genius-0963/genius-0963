@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saurabh Kumar (genius-0963)
+# 👋 Hi, I'm Saurabh Kumar, urf genius
 
 I’m an open-source contributor and software developer passionate about building impactful, real-world applications.  
 Currently pursuing **Electronics and Communication Engineering** at **IIIT Allahabad**, I enjoy working on projects spanning **AI, mobile & web development, real-time systems, and data processing**.
