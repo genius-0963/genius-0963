@@ -87,8 +87,6 @@ Also, maintain a fork for custom workflows and experiments.
 ---
 
 ## 📫 Connect With Me
-
-- GitHub: https://github.com/genius-0963  
 - LinkedIn: https://www.linkedin.com/in/saurabh-kumar-6009b51b3/ 
 - Email: Saurabhkumarsingh8787@gmail.com
 
