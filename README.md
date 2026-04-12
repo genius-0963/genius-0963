@@ -1,95 +1,81 @@
-# 👋 Hi, I'm Saurabh Kumar
+# Saurabh Kumar
 
-I’m an open-source contributor and software developer passionate about building impactful, real-world applications.  
-Currently pursuing **Electronics and Communication Engineering** at **IIIT Allahabad**, I enjoy working on projects spanning **AI, mobile & web development, real-time systems, and data processing**.
-
-I actively contribute to open-source ecosystems and love collaborating on projects that focus on **performance, usability, and practical utility**.
+Software Engineer | Distributed Systems | Backend | ML Systems  
+IIIT Allahabad (ECE) •
 
 ---
 
-## 🔧 Skills & Interests
+## Key Impact
 
-- Open Source Contribution  
-- Python, JavaScript, TypeScript  
-- React & React Native  
-- AI / Machine Learning  
-- Backend APIs & Real-time Systems  
-- Data Tools & Developer Productivity  
+- Built distributed systems handling **10K+ requests/day** with **99.9% uptime**
+- Reduced latency by **30–40%** across multiple systems
+- Improved data consistency by **82%** and pipeline efficiency by **34%**
+- Achieved **Top 1% (Amazon HackOn)** and **Top 0.1% (Salesforce AI Challenge)**
 
 ---
 
-## 📂 Featured Projects
+## Experience
 
-### 🧠 AI & Machine Learning
+**Software Developer Intern — GWING**
+- Designed Azure-based data pipelines → **+34% efficiency**
+- Improved data consistency → **+82%**
+- Optimized data flows using Azure Data Factory
 
-#### Real-Time-Speetch-Saparation-Model-Toolkit  
-A PyTorch-based toolkit for **real-time, speaker-independent speech separation** using TasNet & DPRNN.  
-Includes:
-- Causal configurations  
-- Multiple RNN variants  
-- PIT loss support  
-- Low-latency optimization  
-
-> Focused on live audio enhancement and real-time ML systems.
+**Software Intern — II-SDGs**
+- Refactored React architecture → **+25% performance**
+- Resolved production issues → **98% bug resolution rate**
+- Reduced redundant API calls → **20%**
 
 ---
 
-#### AlphaFold3 (Fork)  
-A fork of **Google DeepMind’s AlphaFold 3** inference pipeline for protein structure prediction.  
-Demonstrates my interest in:
-- Large-scale ML systems  
-- Computational biology  
-- Scientific AI research  
+## Projects
+
+**Real-Time Recommendation Engine**
+- Distributed architecture (Kafka, Redis, FastAPI)
+- Built streaming pipelines + feature stores
+- Implemented incremental indexing for real-time updates
+- Deployed via Kubernetes with CI/CD
+
+**ManuScan AI (GNN + WASM)**
+- +35% prediction accuracy using Graph Neural Networks
+- <100ms inference latency using WebAssembly
+- Scaled to **10K+ samples/day**
+
+**Raiseit (MERN System)**
+- Role-based system (User/Admin/Officer)
+- Reduced unauthorized access by **90%**
+- Improved latency by **30%**
+- Handled **1000+ concurrent requests**
 
 ---
 
-## 📱 Mobile & Web Development
+## Skills
 
-#### Aarogya-Shishu  
-A **cross-platform mobile app (React Native + Firebase)** for digital vaccination tracking of infants.  
-Built to support:
-- Rural healthcare workflows  
-- Offline-first design  
-- Simple user experience  
-
----
-
-#### Real-Time Object Detection System  
-A full-stack system for **real-time object detection** with:
-- React frontend  
-- High-performance backend  
-- Live camera and detection pipeline  
+**Languages:** C++, JavaScript, Python  
+**Backend:** Node.js, Express, FastAPI  
+**Frontend:** React, Tailwind  
+**Systems:** Kafka, Redis, Docker, Kubernetes  
+**Cloud:** Microsoft Azure  
+**Database:** MongoDB  
 
 ---
 
-## 🌐 Web Data Tools & Open Source
+## Competitive Programming
 
-#### Firecrawl (Contributor & Fork)  
-Contributed to **Firecrawl – Web Data API for AI**, a platform for converting websites into structured, LLM-ready data.  
-
-Worked on:
-- Stability improvements  
-- API tooling  
-- Developer experience  
-
-Also, maintain a fork for custom workflows and experiments.
+- Strong in DSA, Graphs, DP, System Design  
+- Active on LeetCode & Codeforces  
 
 ---
 
-## ⭐ Open Source Impact
+## Links
 
-- Starred and explored **20+ open-source repositories**
-- Contributed to community projects across:
-  - AI tooling  
-  - Web infrastructure  
-  - Developer platforms  
+GitHub: https://github.com/genius-0963  
+LinkedIn: https://linkedin.com/in/saurabh-kumar-6009b51b3/
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/saurabh-kumar-6009b51b3/ 
-- Email: Saurabhkumarsingh8787@gmail.com
+## Philosophy
 
----
-
-> *Always learning, always building, always contributing 🚀*
+Build scalable systems.  
+Optimize for latency.  
+Measure impact.
