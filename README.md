@@ -5,15 +5,6 @@ IIIT Allahabad (ECE) •
 
 ---
 
-## Key Impact
-
-- Built distributed systems handling **10K+ requests/day** with **99.9% uptime**
-- Reduced latency by **30–40%** across multiple systems
-- Improved data consistency by **82%** and pipeline efficiency by **34%**
-- Achieved **Top 1% (Amazon HackOn)** and **Top 0.1% (Salesforce AI Challenge)**
-
----
-
 ## Experience
 
 **Software Developer Intern — GWING**
