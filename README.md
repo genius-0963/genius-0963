@@ -61,28 +61,6 @@ All documented, architected for production, and designed to scale. 📖
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ---
-
-### 🚀 Featured Projects
-
-#### **RAGX – Advanced Retrieval-Augmented Generation Engine**
-Enterprise-grade RAG system with vector databases, semantic search, and multi-modal generation.
-- Production RAG pipelines with reranking and evaluation
-- Vector database integration and optimization
-- Multi-model generation strategies
-
-#### **Real-Time Speech Separation Toolkit**
-Low-latency, streaming audio processing for real-world deployment.
-- Streaming architecture with <100ms latency targets
-- Production-focused system design
-- Applied ML with infrastructure excellence
-
-#### **AI Infrastructure Stack**
-A collection of production-ready AI systems:
-- **ModelX** — Advanced ML experimentation and deployment framework
-- **Compensation Intelligence System** — Intelligent pricing and analysis platform
-- **Self-Healing Documentation** — AI-powered docs generation and maintenance
-- **Computer Vision & Recommendation Systems** — Multiple ML-powered applications
-
 #### **Full-Stack & Hardware**
 - **Retail Daddy** — Offline-first billing & POS platform for real-world retail
 - Healthcare tech collaboration with AIIMS Mangalagiri
