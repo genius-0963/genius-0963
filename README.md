@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Pre-final Year B.Tech (ECE) @ IIIT Allahabad · Building production-grade AI systems · India 🇮🇳
+  final Year B.Tech @ IIIT Allahabad · Building SelfSmart AI systems · 
 </p>
 
 <p align="center">
