@@ -17,11 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a software engineer passionate about **AI infrastructure**, **distributed systems**, and **real-time machine learning**. I build ambitious, production-ready systems that combine rigorous engineering with applied AI to solve real-world problems.
-
-By day, I'm shipping RAG pipelines, LLM agents, and scalable backends. By night, I'm exploring new AI models, reverse-engineering systems, and contributing to open-source AI infrastructure. I love the intersection of **software engineering excellence** and **AI innovation**.
-
-When I'm not coding, I'm likely optimizing a system, writing documentation, or diving into the latest in LLM research and developer tooling. 🔬
+I am a fourth-year B.Tech student passionate about building production-ready AI systems, backend infrastructure, and developer tools, with hands-on experience from three internships and open-source contributions to projects like Firecrawl, TensorFlow, and Atlas Research. I believe AI should go beyond generating code—it should help engineers build reliable, secure, and scalable software for real-world use. My work includes developing systems such as RAGX for hybrid retrieval and re-ranking, and a self-healing documentation platform that automatically maintains high-quality project documentation. Currently, I am preparing for Software Engineering roles while continuing to contribute to open source and build practical AI solutions that solve real engineering problems.
 
 ### 🎯 Current Focus
 
