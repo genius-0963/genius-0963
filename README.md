@@ -1,4 +1,7 @@
 
+Building AI-native products that solve real problems — rethinking not just what AI can do, but how humans interact with it. 😉
+
+
 ### 🎯 Current Focus
 
 - 🛠️ **[SelfSmartAi](https://github.com/SelfSmartbrain/SelfSmart)** — An autonomous AI platform that continuously learns from the web, refines its knowledge through fine-tuning, and runs locally to break free from knowledge cutoffs and cloud dependencies.
