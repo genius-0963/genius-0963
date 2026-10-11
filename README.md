@@ -24,6 +24,13 @@ I work across the entire spectrum: from research concepts to deployed products, 
 - [Fix signed integer overflow in TFLite Div op](https://github.com/tensorflow/tensorflow/pull/124567) — Critical bug fix addressing integer overflow in division operations (`INT32_MIN / -1`). Merged with review and testing.
 - **Impact**: Prevents runtime crashes in production ML inference pipelines using TensorFlow Lite.
 
+
+### Firecrawl (Web Scraping & Data Extraction)
+Production web scraping library used across AI/data pipelines.
+
+- [Fix: add retry logic and improved error handling to scrapeUrl](https://github.com/genius-0963/firecrawl/pull/2) — Production hardening: resilience patterns, network error recovery, robust error handling.
+- [Fix: resolve AsyncFirecrawlApp search() return type mismatch](https://github.com/genius-0963/firecrawl/pull/1) — Type safety and contract enforcement in async API.
+
 ### SelfSmart-AI Platform
 A production AI platform combining conversational AI, learning, and decision intelligence.
 
@@ -33,12 +40,6 @@ A production AI platform combining conversational AI, learning, and decision int
 - [feat: system upgrade](https://github.com/SelfSmartbrain/SelfSmart/pull/2) — Major feature release.
 - [Format files with Black to pass CI checks](https://github.com/SelfSmartbrain/SelfSmart/pull/10) — Code quality enforcement; ensuring consistent formatting across codebase.
 - [Fix eslint ssr issues](https://github.com/SelfSmartbrain/SelfSmart/pull/9) — Frontend compilation and runtime fixes for SSR environments.
-
-### Firecrawl (Web Scraping & Data Extraction)
-Production web scraping library used across AI/data pipelines.
-
-- [Fix: add retry logic and improved error handling to scrapeUrl](https://github.com/genius-0963/firecrawl/pull/2) — Production hardening: resilience patterns, network error recovery, robust error handling.
-- [Fix: resolve AsyncFirecrawlApp search() return type mismatch](https://github.com/genius-0963/firecrawl/pull/1) — Type safety and contract enforcement in async API.
 
 ### Real-Time Systems & Object Detection
 
@@ -99,46 +100,7 @@ Production web scraping library used across AI/data pipelines.
 
 ---
 
-## 📊 Contribution Philosophy
 
-When I submit a PR, I aim for:
-
-1. **Clarity** — Descriptive titles, clear commit messages, explaining the "why"
-2. **Quality** — Tests, type safety, code review readiness
-3. **Completeness** — Documentation, examples, edge cases handled
-4. **Impact** — Solving real problems, not just adding features
-5. **Collaboration** — Responsive to feedback, willing to iterate
-
-Each PR represents:
-- Problem identification
-- Solution design
-- Implementation
-- Testing & verification
-- Production readiness
-
----
-
-## 📈 What I'm Working On
-
-- **Agent-based automation** at scale
-- **RAG systems** for knowledge-intensive applications
-- **Real-time ML inference** and optimization
-- **Healthcare tech** solving accessibility challenges
-- **Documentation automation** and knowledge systems
-
----
-
-## 🤝 Let's Build Together
-
-I'm interested in:
-- ✅ Challenging ML/AI problems
-- ✅ Full-stack product development
-- ✅ Open-source contributions (especially TensorFlow, major frameworks)
-- ✅ Healthcare & social impact initiatives
-- ✅ Scaling systems to millions of users
-
-**GitHub**: [@genius-0963](https://github.com/genius-0963)  
-**Open to**: Collaborations, code reviews, technical discussions, interesting problems
 
 ---
 
