@@ -1,21 +1,4 @@
 # Saurabh | Software Engineer & AI Product Builder
-
-Building intelligent systems, scalable products, and meaningful software that creates real impact.
-
----
-
-## 🎯 About Me
-
-I'm a software engineer focused on:
-- **AI/ML Systems** — Agentic architectures, RAG pipelines, multi-agent orchestration
-- **Full-Stack Development** — Production-grade backend + responsive frontend
-- **Impact-Driven Products** — Healthcare, automation, accessibility, real-world applications
-- **System Architecture** — Designing systems for scale, performance, and reliability
-
-I work across the entire spectrum: from research concepts to deployed products, taking ownership of design, implementation, and production quality.
-
----
-
 ## 💼 Recent Contributions & Merged PRs
 
 ### Major Systems & Infrastructure
