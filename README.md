@@ -40,26 +40,6 @@ A production AI platform combining conversational AI, learning, and decision int
 
 ---
 
-## 🛠️ Technical Expertise
-
-### Languages & Frameworks
-- **Backend**: Python (FastAPI, Django, Flask), Node.js, JavaScript, TypeScript
-- **Frontend**: React, Next.js, Tailwind CSS, TypeScript
-- **ML/AI**: PyTorch, TensorFlow, LangChain, LLMs, Agents
-
-### Systems & Architecture
-- **Databases**: PostgreSQL, MongoDB, Firebase, Redis
-- **Cloud & DevOps**: Docker, Kubernetes, CI/CD (GitHub Actions), deployment automation
-- **Patterns**: Microservices, event-driven systems, RAG pipelines, multi-agent orchestration
-
-### Problem-Solving Areas
-- ✅ **Production Reliability** — Error handling, retry logic, resilience patterns
-- ✅ **Type Safety** — TypeScript, proper type contracts, API design
-- ✅ **Performance** — Real-time systems, optimization, low-latency inference
-- ✅ **Security** — Authentication, authorization, token management, secure data handling
-- ✅ **Scalability** — System design, database optimization, distributed systems
-
----
 
 ## 🚀 Key Projects
 
@@ -75,11 +55,10 @@ A production AI platform combining conversational AI, learning, and decision int
 
 ### Tools & Developer Experience
 - **[Self-Healing-Docs](https://github.com/genius-0963/Self-Healing-Docs)** — Automated documentation sync with code changes (GitHub Action)
-- **[GitHub MCP Server](https://github.com/genius-0963/github-mcp-server)** — GitHub automation for AI tooling
 
 ### Healthcare & Social Impact
 - **[Aarogya-Shishu](https://github.com/genius-0963/Aarogya-Shishu-project)** — Vaccination tracking for rural communities (React Native + Firebase)
-- **[Adermis](https://github.com/genius-0963/Adermis-Skin-Disease-Diagnosis)** — AI-powered skin disease diagnosis platform
+- **[Adermis](https://github.com/genius-0963/Adermis-Skin-Disease-Diagnosis)** — AI-powered disease diagnosis platform
 
 ---
 
