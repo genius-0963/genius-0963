@@ -1,70 +1,39 @@
-# Saurabh | Software Engineer & AI Product Builder
-## 💼 Recent Contributions & Merged PRs
+<h1 align="center">Hi, I'm Saurabh 👋</h1>
+<p align="center">B.Tech ECE, IIIT Allahabad '27 · Building SelfSmartBrain · Open source contributor</p>
 
-### Major Systems & Infrastructure
-
-**TensorFlow** (Major OSS Contribution)
-- [Fix signed integer overflow in TFLite Div op](https://github.com/tensorflow/tensorflow/pull/124567) — Critical bug fix addressing integer overflow in division operations (`INT32_MIN / -1`). Merged with review and testing.
-- **Impact**: Prevents runtime crashes in production ML inference pipelines using TensorFlow Lite.
-
-
-### Firecrawl (Web Scraping & Data Extraction)
-Production web scraping library used across AI/data pipelines.
-
-- [Fix: add retry logic and improved error handling to scrapeUrl](https://github.com/genius-0963/firecrawl/pull/2) — Production hardening: resilience patterns, network error recovery, robust error handling.
-- [Fix: resolve AsyncFirecrawlApp search() return type mismatch](https://github.com/genius-0963/firecrawl/pull/1) — Type safety and contract enforcement in async API.
-
-### SelfSmart-AI Platform
-A production AI platform combining conversational AI, learning, and decision intelligence.
-
-- [Authentication Integration, CORS & DB Session Optimizations, and UI Profile Menu](https://github.com/SelfSmartbrain/SelfSmart/pull/8) — Full-stack feature: secure auth flow, database session handling, frontend profile management.
-- [Token checks from all API calls](https://github.com/SelfSmartbrain/SelfSmart/pull/6) — Security hardening across KnowledgeContent, DashboardContent, SettingsContent, and chat stores.
-- [Updated agent_society, autonomous_development; Added local_client.py to llm module](https://github.com/SelfSmartbrain/SelfSmart/pull/5) — Core system upgrades for multi-agent orchestration.
-- [feat: system upgrade](https://github.com/SelfSmartbrain/SelfSmart/pull/2) — Major feature release.
-- [Format files with Black to pass CI checks](https://github.com/SelfSmartbrain/SelfSmart/pull/10) — Code quality enforcement; ensuring consistent formatting across codebase.
-- [Fix eslint ssr issues](https://github.com/SelfSmartbrain/SelfSmart/pull/9) — Frontend compilation and runtime fixes for SSR environments.
-
-### Real-Time Systems & Object Detection
-
-- [Add video link to README + Fix formatting](https://github.com/genius-0963/Real-Time-Object-Detection-System/pull/1) & [PR #2](https://github.com/genius-0963/Real-Time-Object-Detection-System/pull/2) — Documentation and examples for real-time ML inference.
-
-### AI Research & Model Toolkits
-
-- [Update README.md](https://github.com/genius-0963/Real-Time-Speetch-Saparation-Model-Toolkit/pull/1) — Documenting production speech separation toolkit.
-
-### Profile & Repository Management
-
-- [Enhance README with detailed personal and project info](https://github.com/genius-0963/genius-0963/pull/1) — Community presence and portfolio.
-- [Add workflow badges to README](https://github.com/SelfSmartbrain/demo-repository/pull/1) — CI/CD transparency and repository best practices.
-- [Create README.md for CAD Geometry Analyzer](https://github.com/genius-0963/3D-CAD--Geometry-Analyzer/pull/1) — Technical documentation for complex ML/geometry system.
+<p align="center">
+  <a href="https://github.com/genius-0963"><img src="https://img.shields.io/github/followers/genius-0963?label=Follow&style=social" alt="GitHub followers"></a>
+</p>
 
 ---
 
+### 🌱 Open Source
 
-## 🚀 Key Projects
+Merged / contributed PRs to:
 
-### AI & Agentic Systems
-- **[SelfSmart-AI](https://github.com/genius-0963/SelfSmart-Ai)** — Production AI platform with multi-agent orchestration and learning loops
-- **[ModelX](https://github.com/genius-0963/ModelX)** — Self-improving AGI platform with hierarchical memory and reasoning
-- **[RAGX](https://github.com/genius-0963/RAGX-Advanced-Retrieval-and-Generation-Engine)** — Enterprise RAG engine with hybrid search and contextual optimization
+**TensorFlow** — fixed signed-integer overflow in TFLite `Div` op · fixed inverted results in `isclose`/`allclose` for infinities
+**SelfSmartBrain** — auth integration, CORS & DB session optimizations, CI fixes (10 merged PRs)
+**Google DeepMind** — MuJoCo, AlphaFold 3, TF2JAX, VideoPrism
+**Firecrawl** · **GitHub MCP Server**
 
-### Real-Time & ML Systems
-- **[Real-Time Speech Separation Toolkit](https://github.com/genius-0963/Real-Time-Speetch-Saparation-Model-Toolkit)** — Low-latency audio processing, PyTorch-based
-- **[Real-Time Object Detection System](https://github.com/genius-0963/Real-Time-Object-Detection-System)** — Full-stack inference pipeline (React frontend + Python backend)
-- **[3D CAD Geometry Analyzer](https://github.com/genius-0963/3D-CAD--Geometry-Analyzer)** — Advanced mesh processing and ML-based analysis
+### 🔭 Currently Building
 
-### Tools & Developer Experience
-- **[Self-Healing-Docs](https://github.com/genius-0963/Self-Healing-Docs)** — Automated documentation sync with code changes (GitHub Action)
+| Project | What it is |
+|---|---|
+| [**ModelX**](https://github.com/genius-0963) | Large-scale, self-improving AI agent platform |
+| [**SelfSmart AI**](https://github.com/genius-0963/SelfSmart-Ai) | Continuously learning AI platform — conversational AI + behavioral analytics |
+| [**RAGX**](https://github.com/genius-0963/RAGX-Advanced-Retrieval-and-Generation-Engine) | Enterprise-grade RAG engine, senior-SWE/MLOps best practices |
 
-### Healthcare & Social Impact
-- **[Aarogya-Shishu](https://github.com/genius-0963/Aarogya-Shishu-project)** — Vaccination tracking for rural communities (React Native + Firebase)
-- **[Adermis](https://github.com/genius-0963/Adermis-Skin-Disease-Diagnosis)** — AI-powered disease diagnosis platform
+### ⚙️ Featured Projects
+
+- **[Real-Time Speech Separation Toolkit](https://github.com/genius-0963/Real-Time-Speetch-Saparation-Model-Toolkit)** — PyTorch, TasNet/DPRNN, <100ms latency
+- **[3D CAD Geometry Analyzer](https://github.com/genius-0963/3D-CAD--Geometry-Analyzer)** — Open3D mesh processing + ML for STL/STEP analysis
+- **[Self-Healing Docs](https://github.com/genius-0963/Self-Healing-Docs)** — GitHub Action that keeps docs in sync with code via AST + embeddings
+- **[AIAgentX](https://github.com/genius-0963/AIAgentX)** — npm library to replace LangChain in chatbot pipelines
+
+### 🛠️ Stack
+
+`Python` `TypeScript` `PyTorch` `React` `FastAPI` `Docker`
 
 ---
-
-
-
----
-
-> "I build systems that solve real problems. Every line of code should serve a user or a business goal."
-
+<p align="center"><sub>Targeting SWE / AI-ML roles — FAANG, product & AI startups</sub></p>
