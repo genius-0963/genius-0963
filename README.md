@@ -23,38 +23,3 @@
 | [**RAGX**](https://github.com/genius-0963/RAGX-Advanced-Retrieval-and-Generation-Engine) | Enterprise-grade RAG engine, hybrid search |
 | [**Real-Time Speech Separation Toolkit**](https://github.com/genius-0963/Real-Time-Speetch-Saparation-Model-Toolkit) | PyTorch, TasNet/DPRNN, <100ms latency |
 | [**Self-Healing Docs**](https://github.com/genius-0963/Self-Healing-Docs) | GitHub Action that keeps docs in sync with code via AST + embeddings |
-
-### 🛠️ Tech Stack
-
-**Languages & Core Technologies**  
-`Python` `TypeScript` `JavaScript` `Java` `SQL` `Bash`
-
-**AI / Machine Learning**  
-`PyTorch` `TensorFlow` `Scikit-learn` `Hugging Face` `Transformers` `OpenCV` `YOLO` `NumPy` `Pandas`
-
-**LLMs & Generative AI**  
-`LangChain` `LlamaIndex` `RAG` `LLM Agents` `Prompt Engineering` `Vector Search` `Embeddings` `Fine-Tuning`
-
-**Backend & APIs**  
-`FastAPI` `Node.js` `Express.js` `REST APIs` `GraphQL` `Pydantic` `WebSockets`
-
-**Frontend & UI**  
-`React` `Next.js` `Tailwind CSS` `HTML5` `CSS3` `Vite`
-
-**Databases & Vector Stores**  
-`PostgreSQL` `MongoDB` `Redis` `SQLite` `ChromaDB` `Qdrant` `Prisma`
-
-**DevOps & Infrastructure**  
-`Docker` `Kubernetes` `GitHub Actions` `Jenkins` `CI/CD` `Linux` `Nginx`
-
-**Message Queues & Distributed Systems**  
-`Apache Kafka` `Celery` `RabbitMQ` `Event-Driven Architecture` `Microservices`
-
-**Cloud & Deployment**  
-`AWS` `Google Cloud` `Vercel` `Render` `Hugging Face Spaces`
-
-**Developer Tools & Testing**  
-`Git` `GitHub` `Postman` `pytest` `Jest` `Locust` `Jupyter` `VS Code`
-
----
-<p align="center"> · IIIT Allahabad</sub></p>
