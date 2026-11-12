@@ -1,5 +1,5 @@
 # Intro
-My self Saurabh ,a student , a learner, a builder who work with new tools to solve real life life Engg problem .
+My self Saurabh ,a student , a learner, a builder who work with new tools to solve real life Engg problem .
 ## What I work with
 
 - **Languages:** Python, C++, TypeScript, JavaScript
