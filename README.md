@@ -9,7 +9,7 @@ My self Saurabh ,a student , a learner, a builder who work with new tools to sol
 
 - **[RAGX](https://github.com/genius-0963/RAGX-Advanced-Retrieval-and-Generation-Engine)** — A RAG who focused on hybrid search and end-to-end systems.
 - **[Self-Healing Documents Github Action ](https://github.com/genius-0963/Self-Healing-Docs)** — A GitHub Action connector who structure your documentation using Python with Generative AI .
-- **[SelfSmart AI](https://github.com/genius-0963/SelfSmart-Ai)** — A project combining conversational AI, analytics, and behavioral-science ideas.
+- **[SelfSmart AI](https://github.com/genius-0963/SelfSmart-Ai)** — A Model which combining the conversational AI, analytics, and behavioral-science ideas.
 - **[3D Model Geometry Analyzer](https://github.com/genius-0963/3D-CAD--Geometry-Analyzer)** — Tools for analyzing geometry in 3D CAD models.
 - - **[Real-Time Speech Separation Toolkit](https://github.com/genius-0963/Real-Time-Speetch-Saparation-Model-Toolkit)** — A PyTorch toolkit exploring TasNet and DPRNN models for speaker-independent speech separation.
 - **[Real-Time Object Detection System](https://github.com/genius-0963/Real-Time-Object-Detection-System)** — A web application for running object detection on live video or uploaded files.
