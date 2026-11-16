@@ -1,5 +1,7 @@
 # Intro
 My self Saurabh ,a student , a learner, a builder who work with new tools to solve real life Engg problem .
+
+**[Resume](https://drive.google.com/file/d/1PVe_CdKtq6Vab8M2nehhk6rqq6ykhmcw/view?usp=sharing)**
 ## What I work with
 
 - **Languages:** Python, C++, TypeScript, JavaScript
